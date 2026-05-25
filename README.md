@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on Apache Airflow. :D
+I'm currently working on Apache Airflow :D
 
 
 ## 🌐 Socials:
@@ -17,8 +17,5 @@ I'm currently working on Apache Airflow. :D
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=rhythm001&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-[![](https://komarev.com/ghpvc/?username=rhythm001&icon=0&color=1)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
