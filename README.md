@@ -10,7 +10,7 @@ I'm currently working on Apache Airflow, Docker and DBT. :D
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=rhythm001&theme=default_repocard&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=rhythm001&theme=default_repocard&hide_border=false)<br/>
+![](https://streak-stats.demolab.com/?user=rhythm001&theme=github_dark_dimmed&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=rhythm001&theme=default_repocard&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
