@@ -1,5 +1,5 @@
 # 💫 About Me:
-Data Analyst | 2 Yoe | MSc. Big Data Analytics
+Senior Data Analyst | 2 Yoe | MSc. Big Data Analytics
 
 
 ## 🌐 Socials:
