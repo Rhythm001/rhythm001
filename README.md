@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on Apache Airflow, Docker and DBT. :D
+Data Analyst | 2 Yoe | MSc. Big Data Analytics
 
 
 ## 🌐 Socials:
